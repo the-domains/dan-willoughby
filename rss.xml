@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Dan Willoughby]]></title>
         <description><![CDATA[Dan Willoughby]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/dan-willoughby/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 01 Mar 2016 01:47:20 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 01 Mar 2016 01:53:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dan-willoughby/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9b930a8f-360f-4995-9d6d-2e5ca59560af.jpg">]]></description>
+            <link>https://thegrid.ai/dan-willoughby/bf6d0749-8503-494d-8b2e-4e12aa279739/index.html</link>
+            <guid isPermaLink="false">bf6d0749-8503-494d-8b2e-4e12aa279739</guid>
+            <pubDate>Tue, 01 Mar 2016 01:52:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fab724fe-d66e-4301-83fd-2ea759a1441a.jpg">]]></description>
-            <link>undefined69f560c7-6c2e-40e2-a5b8-cb99c9dc56e9/index.html</link>
+            <link>https://thegrid.ai/dan-willoughby/69f560c7-6c2e-40e2-a5b8-cb99c9dc56e9/index.html</link>
             <guid isPermaLink="false">69f560c7-6c2e-40e2-a5b8-cb99c9dc56e9</guid>
             <pubDate>Tue, 01 Mar 2016 01:47:11 GMT</pubDate>
         </item>
